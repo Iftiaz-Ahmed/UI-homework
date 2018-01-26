@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Risque');
+@import url('https://fonts.googleapis.com/css?family=Lato');
 *{
 	margin: 0;
 	padding: 0;
@@ -7,7 +7,7 @@
 	-moz-box-sizing: border-box;
 }
 body{
-	font-family: 'Risque', cursive;
+	font-family: 'Lato', sans-serif;
 }
 .contact-info {/* margin-top: 5px; */overflow: hidden;/* background:  red; */height:  50px;font-size: 13px}
 .part, a{
