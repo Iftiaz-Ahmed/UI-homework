@@ -537,6 +537,7 @@ footer{
 .fpart1{
     width:  40%;
     float:  left;
+    padding:  10px;
 }
 .fpart1 h1{
     color:  white;
@@ -568,14 +569,18 @@ input{
 .fpart2{
     width: 60%;
     float: left;
+    padding:  19px 0 0 42px;
 }
-.footer-nav{}
+.footer-nav{
+    padding-top:  20px;
+}
 .fpart2 ul{}
 .fpart2 ul li{
     list-style:  none;
     display:  inline-block;
-    padding: 28px 25px 28px 30px;
+    /* padding: 28px 25px 28px 30px; */
     transition:  all .4s ease;
+    padding: 10px;
 }
 .fpart2 ul li a{
     color:  white;
